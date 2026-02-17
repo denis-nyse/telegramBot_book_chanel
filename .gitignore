@@ -2,5 +2,5 @@ venv/
 __pycache__/
 export_*.csv
 *.zip
-config
+config.py
 *.txt
